@@ -1,4 +1,4 @@
-# Testy platggggggggggggggggggowosci
+# Testy platforma AI dla Ksiegowosci
 ## Spec
 o## TODO
 krok 1 
